@@ -1,1 +1,1 @@
-hub.zentao.net/app/zentao:20.6
+gitlab/gitlab-ce:17.3.2-ce.0
