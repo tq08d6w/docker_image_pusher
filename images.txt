@@ -1,2 +1,2 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.15.1
-docker.elastic.co/logstash/logstash:8.15.1
+v55448330/lazy-balancer:v1.3.9.1beta
+v55448330/lazy-balancer:latest
