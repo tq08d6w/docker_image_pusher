@@ -1,2 +1,1 @@
-v55448330/lazy-balancer:v1.3.9.1beta
-v55448330/lazy-balancer:latest
+gitlab/gitlab-ce:17.3.3-ce.0
