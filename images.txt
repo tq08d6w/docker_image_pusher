@@ -1,1 +1,1 @@
-docker.elastic.co/beats/filebeat:8.15.1
+gitlab/gitlab-ce:17.4.1-ce.0
