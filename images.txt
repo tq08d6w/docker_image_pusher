@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-10-02T17-50-41Z
+container-registry.oracle.com/mysql/community-router:8.0.28
