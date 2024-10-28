@@ -1,1 +1,2 @@
-gitlab/gitlab-runner:v17.5.0
+grafana/loki:3.2.0
+grafana/promtail:3.2.0
