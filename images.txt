@@ -1,2 +1,1 @@
-grafana/loki:3.2.1
-grafana/promtail:3.2.1
+grafana/grafana-enterprise:11.3.0
