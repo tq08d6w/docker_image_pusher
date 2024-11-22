@@ -1,2 +1,1 @@
-jumpserver/jms_all:v4.4.0
-jumpserver/jms_all:v3.10.15-lts
+jumpserver/jms_all:v3.10.14
