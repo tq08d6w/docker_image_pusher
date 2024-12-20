@@ -1,1 +1,1 @@
-grafana/grafana-enterprise:11.4.0
+filebeat/filebeat:8.17.0
