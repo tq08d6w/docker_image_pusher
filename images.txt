@@ -1,1 +1,2 @@
-docker.elastic.co/beats/filebeat:8.17.0
+sonatype/nexus3:3.70.0
+sonatype/nexus3:3.75.1
