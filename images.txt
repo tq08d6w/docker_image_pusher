@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:17.7.1-ce.0
+nacos/nacos-server:v.1.4.8
