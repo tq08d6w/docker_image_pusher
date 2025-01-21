@@ -1,1 +1,5 @@
-nacos/nacos-server:v1.4.8
+zabbix/zabbix-server-mysql:alpine-7.2.2
+zabbix/zabbix-web-nginx-mysql:alpine-7.2.2
+zabbix/zabbix-proxy-mysql:alpine-7.2.2
+zabbix/zabbix-snmptraps:alpine-7.2.2
+zabbix/zabbix-java-gateway:alpine-7.2.2
