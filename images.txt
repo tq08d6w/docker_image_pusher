@@ -1,1 +1,1 @@
-zabbix/zabbix-proxy-sqlite3:alpine-7.2.2
+jumpserver/jms_all:v4.6.0
