@@ -1,2 +1,1 @@
-gitlab/gitlab-ce:17.9.2-ce.0
-gitlab/gitlab-runner:v17.9.0
+registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-v17.9.0
