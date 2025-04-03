@@ -1,1 +1,2 @@
-quay.io/minio/minio:RELEASE.2025-03-12T18-04-18Z
+grafana/loki:3.4.2
+grafana/promtail:3.4.2
