@@ -1,2 +1,1 @@
-grafana/loki:3.4.2
-grafana/promtail:3.4.2
+sonatype/nexus3:3.79.0
