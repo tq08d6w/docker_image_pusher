@@ -1,5 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.18.1
-docker.elastic.co/kibana/kibana:8.18.1
-docker.elastic.co/logstash/logstash:8.18.1
-docker.elastic.co/beats/filebeat:9.0.1
-docker.elastic.co/beats/filebeat:8.18.1
+gitlab/gitlab-ce:17.11.2-ce.0
