@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:18.0.1-ce.0
+registry.gitlab.com/security-products/semgrep:6
