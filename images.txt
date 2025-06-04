@@ -1,1 +1,1 @@
-registry.gitlab.com/security-products/semgrep:6
+grafana/grafana-enterprise:12.0.1
