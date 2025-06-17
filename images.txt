@@ -1,1 +1,1 @@
-grafana/grafana-enterprise:12.0.1
+gitlab/gitlab-ce:18.0.2-ce.0
