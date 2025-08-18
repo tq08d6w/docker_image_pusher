@@ -1,4 +1,1 @@
-zabbix/zabbix-server-mysql:alpine-7.4.1
-zabbix/zabbix-web-nginx-mysql:alpine-7.4.1
-zabbix/zabbix-snmptraps:alpine-7.4.1
-zabbix/zabbix-proxy-sqlite3:alpine-7.4.1
+gitlab/gitlab-ce:18.2.2-ce.0
