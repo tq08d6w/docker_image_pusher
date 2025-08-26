@@ -1,4 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:9.1.2
-docker.elastic.co/kibana/kibana:9.1.2
-docker.elastic.co/logstash/logstash:9.1.2
-docker.elastic.co/beats/filebeat:9.1.2
+docker.elastic.co/elasticsearch/elasticsearch:8.19.0
