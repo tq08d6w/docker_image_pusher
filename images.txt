@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.19.0
+jumpserver/jms_all:v4.10.6
