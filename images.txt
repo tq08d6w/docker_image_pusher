@@ -1,3 +1,3 @@
-bitnami/redis:8.4.0
+registry-1.docker.io/bitnami/redis:8.4.0
 redis:8.4.0
-bitnami/redis-sentinel:8.4.0
+registry-1.docker.io/bitnami/redis-sentinel:8.4.0
