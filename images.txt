@@ -1,3 +1,1 @@
-public.ecr.aws/bitnami/redis:8.4.0
-redis:8.4.0
 public.ecr.aws/bitnami/redis-sentinel:8.4.0
