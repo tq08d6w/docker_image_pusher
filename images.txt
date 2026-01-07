@@ -1,4 +1,1 @@
-zabbix/zabbix-server-mysql:alpine-7.4.6
-zabbix/zabbix-web-nginx-mysql:alpine-7.4.6
-zabbix/zabbix-snmptraps:alpine-7.4.6
-zabbix/zabbix-proxy-sqlite3:alpine-7.4.6
+rancher/mirrored-calico-pod2daemon-flexvol:v3.22.5
