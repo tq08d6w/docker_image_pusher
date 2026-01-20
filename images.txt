@@ -1,1 +1,1 @@
-rancher/mirrored-calico-pod2daemon-flexvol:v3.22.5
+gitlab/gitlab-ce:18.8.1-ce.0
