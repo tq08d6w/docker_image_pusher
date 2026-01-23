@@ -1,1 +1,1 @@
-grafana/grafana-enterprise:12.3.1-alpine
+grafana/grafana-enterprise:12.3.1
