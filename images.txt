@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:18.8.5-ce.0
+clickhouse/clickhouse-server:26.2
