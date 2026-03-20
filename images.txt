@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:26.2
+gitlab/gitlab-ce:18.9.2-ce.0
