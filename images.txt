@@ -1,1 +1,1 @@
-v55448330/lazy-balancer:v1.5.2beta
+nvidia/cuda:12.0.0-devel-ubuntu22.04
