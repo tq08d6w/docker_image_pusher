@@ -1,1 +1,1 @@
-opendatalab/mineru:latest
+mineru:latest
