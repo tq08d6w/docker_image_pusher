@@ -1,2 +1,1 @@
-jmrplens/gitlab-mcp-server:2.5.2
-python:3.13.5-slim
+grafana/alloy:v1.18.0
