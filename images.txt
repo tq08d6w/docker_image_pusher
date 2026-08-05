@@ -1,1 +1,1 @@
-grafana/alloy:v1.18.0
+nacos/nacos:v2.5.3
