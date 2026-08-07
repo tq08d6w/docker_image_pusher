@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.5.3
+technitium/dns-server:latest
