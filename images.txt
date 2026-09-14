@@ -1,1 +1,1 @@
-technitium/dns-server:latest
+gitlab/gitlab-ce:19.2.6-ce.0
