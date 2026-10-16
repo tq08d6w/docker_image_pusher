@@ -1,1 +1,1 @@
-docker:29.9.2-dind-alpine3.24
+docker:29-dind
